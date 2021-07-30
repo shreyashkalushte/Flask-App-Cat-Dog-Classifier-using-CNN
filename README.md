@@ -1,2 +1,4 @@
 # Cat-Dog-Classifier-using-CNN
-Dog and cat image classifier with deep learning
+The problem Statements
+
+Given a set of labeled images of cats and dogs, a machine learning model is to be learnt and later it is to be used to classify a set of new images as cats or dogs.
