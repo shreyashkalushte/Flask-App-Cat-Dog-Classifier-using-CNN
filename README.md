@@ -20,11 +20,6 @@ Data - https://www.kaggle.com/c/dogs-vs-cats
 • Numpy</br></br>
 
 
-First we train the model and save it. We then import this model into our flask application. So users can upload their photos and receive the prediction.
-
-
-For this project, we used pre-trained model MobileNetV2 from keras. MobileNetV2 is a model that was trained on a large dataset to solve a similar problem to this project, so it will help us to save lots of time on buiding low-level layers and focus on the application.
-
-Keras documentation for MobileNetV2 - https://keras.io/api/applications/mobilenet/
+First we build and train the model and save it. We then import this model into our flask application. So users can upload their photos and receive the prediction.
 
 The model has the accuracy of 97.79 % for the train dataset and 97.32 % for the test dataset.
