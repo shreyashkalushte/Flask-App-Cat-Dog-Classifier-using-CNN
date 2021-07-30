@@ -21,3 +21,8 @@ Data - https://www.kaggle.com/c/dogs-vs-cats
 
 
 First we build the build and train the model and save it. We then import this saved model to be used in our flask app.
+
+
+For this project, we used pre-trained model MobileNetV2 from keras. MobileNetV2 is a model that was trained on a large dataset to solve a similar problem to this project, so it will help us to save lots of time on buiding low-level layers and focus on the application.
+
+The model has the accuracy of 97.79 % for the train dataset and 97.32 % for the test dataset.
