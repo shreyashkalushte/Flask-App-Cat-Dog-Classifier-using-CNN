@@ -25,4 +25,6 @@ First we build the build and train the model and save it. We then import this sa
 
 For this project, we used pre-trained model MobileNetV2 from keras. MobileNetV2 is a model that was trained on a large dataset to solve a similar problem to this project, so it will help us to save lots of time on buiding low-level layers and focus on the application.
 
+Keras documentation for MobileNetV2 - https://keras.io/api/applications/mobilenet/
+
 The model has the accuracy of 97.79 % for the train dataset and 97.32 % for the test dataset.
