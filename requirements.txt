@@ -20,7 +20,7 @@ Pillow
 PyYAML
 requests
 six
-tensorflow
+tensorflow-cpu
 tensorflow-estimator
 urllib3
 visitor
