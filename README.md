@@ -21,3 +21,17 @@ Data - https://www.kaggle.com/c/dogs-vs-cats
 First we build and train the model and save it. We then import this model into our flask application. So users can upload their photos and receive the prediction.
 
 The model has the accuracy of 97.79 % for the train dataset and 97.32 % for the test dataset.
+
+<h2>Homepage</h2>
+
+Upload the image of a cat or dog.
+
+<img src="images/home_catdog.JPG" alt="Home"/>
+
+<h2>Classification</h2>
+
+The app then classifies the image also with displaying the confidence.
+
+<img src="images/cat.JPG" alt="Cat"/>
+
+<img src="images/dog.JPG" alt="Dog"/>
