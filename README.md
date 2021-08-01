@@ -11,11 +11,9 @@ Data - https://www.kaggle.com/c/dogs-vs-cats
 
 <h2>Dependencies</h2>
 • Jupyter notebook</br>
-• Tensorflow 1.10</br>
+• Tensorflow 2.2.0</br>
 • Python 3.6</br>
 • Matplotlib</br>
-• Seaborn</br>
-• Scikit-Learn</br>
 • Pandas</br>
 • Numpy</br></br>
 
